@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Learning Open Source Development Through HospitalRun"
 date: 2017-03-25
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+I'm going to document any issues I encounter and how I solved them in learning how to contribute to an opensource project.The project, [hospitalrun,](https://hospitalrun.io) seems like a worthwhile venture for this endeavor.
